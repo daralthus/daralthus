@@ -8,7 +8,7 @@ I am an AI Engineer working from Budapest, London and around the 🌍.
 
 - 🛳️ I am a generalist with 10+ years of experience.
 - 🔭 I’m always open for consulting. Just say hi on [X](https://x.com/bonsaielectric)!
-- 💬 Ask me about RAG and chat agents.
+- 💬 Ask me about RAG and agents.
 - 🏔️ I like climbing trips and 📚 book clubs.
 
 <!--
@@ -23,8 +23,8 @@ I am an AI Engineer working from Budapest, London and around the 🌍.
 
 Most recently I worked on:
 
-- [Barnacle Labs](https://barnacle.ai/) - Agentic RAG and chat bots.
-- [Galileo AI](https://www.usegalileo.ai/) - Text 2 UI copilot.
+- [Barnacle Labs](https://barnacle.ai/) - R&D on AI agents, agentic RAG and chat bots.
+- [Galileo AI](https://www.usegalileo.ai/) - Text 2 UI generative AI tool that became Google Stitch.
 - [Economist Impact](https://impact.economist.com/) - Data visualizations with react-three-fiber.
 - [Thursday](https://www.getthursday.com/) - A dating app that only works on Thursdays.
 - [Thought Machine (Creative Lab)](https://www.creativereview.co.uk/nestlings-money-saving-app/) - Infra for the creative team and real money prototypes.
